@@ -1,2 +1,2 @@
 # lab-3
-Add a README for lab 3
+Public Domain book excerpts webpage
